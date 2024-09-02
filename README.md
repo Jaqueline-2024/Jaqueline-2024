@@ -6,7 +6,7 @@
 - 🔭 meu nome é Jaqueline Medeiros
 - 🌱 Trabalho na escola Azarias Leite
 - 👯 Tento dar aulas de Linguagem de programação Java Script
-- 🤔 Procuro ajudar com meus ocnhecimentos
+- 🤔 Procuro ajudar com meus conhecimentos
 - 💬 Se tiver uma dúvida:
 - 📫 Entre em contat
 
